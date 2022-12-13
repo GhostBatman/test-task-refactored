@@ -1,5 +1,6 @@
-// #typing
-const data = [
+import {IItem} from '@/components/types';
+
+const data: IItem[] = [
     {
         id: 0,
         name: 'aircraft',
